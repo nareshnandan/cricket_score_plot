@@ -1,9 +1,19 @@
-# Cricket Score Plot
+# 🏏 Cricket Score Plot – India vs Australia
 
-This project visualizes the comparison of cricket scores between India and Australia using:
+This project visualizes the comparison of cricket scores between **India** and **Australia** over 20 overs using a line plot.
 
-- Python
-- Pandas
-- Matplotlib
+The visualization is done using:
 
-The data is taken from a CSV file and plotted with wickets indicated using colored circles.
+- **Python**
+- **Pandas** (for reading and handling the data)
+- **Matplotlib** (for plotting the graph)
+
+---
+
+## 📂 Project Structure
+
+CricketScoreAnalysis/
+│
+├── cricket_score.csv # Contains over-wise scores of India and Australia
+├── cricket_analysis.py # Python code to generate the plot
+└── README.md # Project documentation (this file)
