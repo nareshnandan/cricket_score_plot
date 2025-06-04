@@ -17,3 +17,7 @@ CricketScoreAnalysis/
 ├── cricket_score.csv # Contains over-wise scores of India and Australia
 ├── cricket_analysis.py # Python code to generate the plot
 └── README.md # Project documentation (this file)
+
+## 📊 Chart Preview
+
+![Cricket Score Comparison](score_plot.png)
